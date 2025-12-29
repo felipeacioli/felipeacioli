@@ -23,7 +23,7 @@ I'm passionate about problem-solving and continuous learning. My goal is to appl
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipeacioli&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats]https://github-readme-stats-45rabrmo3-felipeaciolis-projects.vercel.app
 
 ### Meus Principais Desafios de Projeto DIO
 
