@@ -2,7 +2,7 @@
 
 Hi, I'm Felipe!
 
-I'm an Industrial Automation Technician based in Recife, and I hold a postgraduate degree in Software Engineering. Currently, I'm expanding my skill set by diving deeper into software development.
+I'm an Industrial Automation Technician based, and I hold a postgraduate degree in Software Engineering. Currently, I'm expanding my skill set by diving deeper into software development.
 
 My background in automation has given me a unique perspective on how the physical world of machines and processes connects with the digital world of software, and I'm excited to explore the amazing possibilities this interaction can unlock.
 
